@@ -15,5 +15,6 @@ $this->Mellat->send();
 # Callback
 <pre>
 $this->Mellat->set_options($terminal,$username,$password);
+
 $this->Mellat->get($_POST);
-</pre>
+</pre>۰۹
